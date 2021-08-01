@@ -1,0 +1,13 @@
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.exe
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.deps.json
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.runtimeconfig.json
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.runtimeconfig.dev.json
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.dll
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.pdb
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.AssemblyInfo.cs
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.dll
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.pdb
+C:\Users\lavanya.g\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.genruntimeconfig.cache
